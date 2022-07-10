@@ -2,7 +2,7 @@
 
 ## Overview
 <a><img src="images/logo-univpm.png" height='60' align="right"/></a>
-Project realized for the course "Software Cybersecurity" at Università politecnica delle Marche.
+Project realized for the course "Software Cybersecurity" at Università Politecnica delle Marche.
 
 This project create a ticket office application for events using blockchain technology.
 
